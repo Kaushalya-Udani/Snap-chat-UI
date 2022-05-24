@@ -1,16 +1,13 @@
-# snapchat2
+# Snap Chat UI
 
-A new Flutter application.
 
-## Getting Started
+![Screenshot_20220524_085039](https://user-images.githubusercontent.com/65672919/169943198-2d0ebb9e-ffac-423c-878f-c83db20eea2d.png)
 
-This project is a starting point for a Flutter application.
+![Screenshot_20220524_085134](https://user-images.githubusercontent.com/65672919/169943222-c11c031e-c4e8-4966-b831-a6558dacc87c.png)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20220524_085159](https://user-images.githubusercontent.com/65672919/169943471-84752511-24e5-4ab9-93a5-67291e57ae1b.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot_20220524_085305](https://user-images.githubusercontent.com/65672919/169943254-35e74b52-36ec-4218-9311-4980a81665a8.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20220524_085326](https://user-images.githubusercontent.com/65672919/169943506-bcd2011d-525c-4b4f-b98d-a83d98f60507.png)
+
